@@ -1,6 +1,6 @@
 cask "continuo" do
-  version "0.1.2"
-  sha256 "d47f1e6e88be5a832d5ce056ec3af83fc0d0ed3669136f6e7d7211dc24c0e89f"
+  version "0.2.3"
+  sha256 "a3b6b6e1154fe8c176d20cacb3ebc6560c1de413e97d4635d47c8b499431cf30"
 
   url "https://github.com/yoavf/continuo/releases/download/v#{version}/Continuo.dmg"
   name "Continuo"
