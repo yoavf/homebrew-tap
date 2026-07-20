@@ -8,7 +8,7 @@ class Jst < Formula
   depends_on :macos
 
   def install
-    bin.install "jst-macos-universal/jst"
+    bin.install "jst"
   end
 
   test do
