@@ -1,8 +1,8 @@
 class Jst < Formula
   desc "Run shell commands from natural-language requests"
   homepage "https://github.com/yoavf/jst"
-  url "https://github.com/yoavf/jst/releases/download/v0.1.0/jst-v0.1.0-macos-universal.zip"
-  sha256 "98b495b29f37717f6430a4a0bf80fbc78745b8b6e763d782b44d5d344ad977c0"
+  url "https://github.com/yoavf/jst/releases/download/v0.2.0/jst-v0.2.0-macos-universal.zip"
+  sha256 "295c76d5f51e06d692f9045e1a900fffcb93fb714e757e36abc787ee2f6d6df6"
   license "MIT"
 
   depends_on :macos
